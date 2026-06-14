@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, esta noche la calle se siente vacía sin ti
+> Tú eres la única nena que me puede poner así
+> En el VIP de la disco, mis ojos te buscan a ti
+> Mi mente me está dando vueltas, no te lo puedo mentir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
